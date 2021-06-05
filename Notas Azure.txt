@@ -1,0 +1,17 @@
+kubectl apply -f image-classifier.yaml
+curl -X POST -d '{"url": "https://i.imgur.com/jD2hDmc.jpg"}' -H 'Content-Type: application/json' http://
+curl -X POST -d '{"url": "https://i.imgur.com/jD2hDMc.jpg"}' -H 'Content-Type: application/json' http://52.153.250.45/predict
+
+
+
+Discos:
+lsblk -o NAME,HCTL,SIZE,MOUNTPOINT | grep -i "sd"
+
+azureuser
+
+
+ssh -i /home/vagrant/vmaz1_key.pem azureuser@vmaz2.southcentralus.cloudapp.azure.com
+ssh -i /home/vagrant/vmaz1_key.pem azureuser@vmaz1.southcentralus.cloudapp.azure.co
+
+cmejia	
+C4rl0sm3j14123

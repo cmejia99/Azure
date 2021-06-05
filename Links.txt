@@ -1,0 +1,6 @@
+de Oscar Hernan Mondragon Martinez a Todos:    9:23 AM
+https://linuxkamarada.com/en/2020/04/20/remote-desktop-connection-to-windows-from-linux-using-rdp-clients/#.YLuIrJNKjwc
+de JOSE DAVID GOMEZ VECA a Todos:    9:32 AM
+https://www.youtube.com/watch?v=P1erVo5X3Bs
+de Oscar Hernan Mondragon Martinez a Todos:    9:34 AM
+systeminfo | findstr /B /C:"Domain"
